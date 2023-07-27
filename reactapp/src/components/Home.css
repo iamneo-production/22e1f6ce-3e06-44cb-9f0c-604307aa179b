@@ -1,0 +1,58 @@
+.abc
+{
+  margin-left: 750px;
+}
+.partnerLogo:hover {
+  transform: scale(2); 
+  transition: transform 0.3s ease; 
+}
+.abcd:hover {
+  transform: scale(1.2); 
+  transition: transform 0.3s ease; 
+}
+.xyz {
+  display: block;
+  margin: 25px 0;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.xyz:hover {
+  background-color: lavenderblush
+  
+}
+
+.sideBarStyle{
+  display: block;
+    margin: 25px 0;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.sideBarStyle:hover{
+  background-color: black;
+}
+
+.navBarStyle{
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  transition: 'background-color 0.3s ease, color 0.3s ease',
+}
+
+.navBarStyle:hover{
+  background-color:burlywood;
+}
+
